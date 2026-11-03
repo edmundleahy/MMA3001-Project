@@ -1,0 +1,18 @@
+{
+  "sensorid": "6012002000869",
+  "step_min": 20,
+  "horizon_min": 60,
+  "n_lags": 3,
+  "max_lags_for_rows": 12,
+  "rule": "Fewest lags with validation regression MAE within 0.01 \u00b0C of the best.",
+  "coefficients_fit_on_train": {
+    "intercept": 2.8066305932723274,
+    "lag_0": 1.6502476003967812,
+    "lag_1": -0.5203069878476119,
+    "lag_2": -0.2506912121588326
+  },
+  "condition_number_on_train": {
+    "centred": 19.90355312257864,
+    "standardised": 19.903570247997855
+  }
+}

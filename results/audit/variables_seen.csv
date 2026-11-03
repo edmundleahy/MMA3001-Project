@@ -1,0 +1,12 @@
+variable,unit,n_readings_all_rows
+Battery,V,179447
+Carbon dioxide,ppm,179447
+Humidity,HR%,179447
+Formaldehyde,µg/m3,179447
+Pressure,mb,179447
+Temperature,°C,179447
+Particulate matter 1,µg/m3,177738
+Particulate matter 2.5,µg/m3,177738
+Particulate matter 4,µg/m3,177738
+Particulate matter 10,µg/m3,177738
+Light Volatile Organic Compounds,ppb,149881

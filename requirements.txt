@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+pytest>=8.0
+pdoc>=14.0
+tzdata>=2024.1   # IANA time zones for Windows (Australia/Melbourne)

@@ -1,0 +1,12 @@
+{
+  "n_train": 4544,
+  "n_lags": 3,
+  "repeats": 20,
+  "regression_fit_s_median": 0.0013884500367566943,
+  "regression_predict_all_train_s_median": 0.0005996000254526734,
+  "persistence_predict_all_train_s_median": 2.2050109691917896e-05,
+  "regression_fit_peak_python_alloc_mb": 0.411113,
+  "fit_flops": 81774.0,
+  "predict_flops_per_sample": 6.0,
+  "note": "Times are machine-dependent. FLOPS are textbook estimates, not measurements."
+}

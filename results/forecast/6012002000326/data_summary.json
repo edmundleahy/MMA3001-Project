@@ -1,0 +1,24 @@
+{
+  "sensorid": "6012002000326",
+  "step_min": 20,
+  "horizon_min": 60,
+  "max_lags_for_rows": 12,
+  "unique_readings": 29037,
+  "first_reading_local": "2025-09-11 22:39:34+10:00",
+  "last_reading_local": "2026-04-22 23:12:41+10:00",
+  "grid_slots": 16059,
+  "grid_slots_filled_fraction": 0.9707329223488387,
+  "examples_after_dropping_incomplete": 15279,
+  "examples_purged_at_boundaries": 28,
+  "examples_per_partition": {
+    "train": 9207,
+    "validation": 2859,
+    "test": 3185
+  },
+  "last_train_slot_local": "2026-01-23 19:00:00+11:00",
+  "last_validation_slot_local": "2026-03-09 09:40:00+11:00",
+  "temperature_min_c": 11.8,
+  "temperature_max_c": 37.5,
+  "smallest_step_between_recorded_values_c": 0.1999999999999993,
+  "median_step_between_recorded_values_c": 0.29999999999999716
+}

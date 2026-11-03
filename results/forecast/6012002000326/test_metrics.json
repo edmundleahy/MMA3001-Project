@@ -1,0 +1,37 @@
+{
+  "sensorid": "6012002000326",
+  "settings_from": "6012002000869",
+  "step_min": 20,
+  "horizon_min": 60,
+  "n_lags": 3,
+  "n_test_examples": 3185,
+  "test_first_issue_local": "2026-03-09 13:40:00+11:00",
+  "test_last_issue_local": "2026-04-22 22:20:00+10:00",
+  "persistence": {
+    "mae": 0.4444897959183673,
+    "rmse": 0.6053632613389781,
+    "bias": 0.00618524332810047
+  },
+  "regression": {
+    "mae": 0.3484453443360631,
+    "rmse": 0.5077448858809901,
+    "bias": -0.007253486187180694
+  },
+  "mae_skill": 0.2160779672880122,
+  "mae_gain_day_bootstrap": {
+    "mae_gain": 0.09604445158230426,
+    "ci95_low": 0.0730984450513228,
+    "ci95_high": 0.12149630437275273,
+    "n_days": 45
+  },
+  "coefficients_fit_on_train": {
+    "intercept": 0.36215393839347243,
+    "lag_0": 1.967331077885033,
+    "lag_1": -0.2766541671709992,
+    "lag_2": -0.7088827972078688
+  },
+  "condition_number_on_train": {
+    "centred": 59.80185312374767,
+    "standardised": 59.80091245301377
+  }
+}

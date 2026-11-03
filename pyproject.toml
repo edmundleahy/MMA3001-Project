@@ -1,0 +1,9 @@
+[project]
+name = "mma3001-temperature-forecast"
+version = "0.1.0"
+description = "Forecasting indoor temperature from Monash Smart Infrastructure environmental sensor data"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

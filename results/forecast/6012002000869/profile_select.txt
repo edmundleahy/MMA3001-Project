@@ -1,0 +1,33 @@
+         764060 function calls (746691 primitive calls) in 0.955 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2899 to 25 due to restriction <25>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.955    0.955 D:\Projects\MMA3001 Project\src\evaluate.py:281(run_select)
+        3    0.000    0.000    0.477    0.159 D:\Projects\MMA3001 Project\src\plots.py:64(_save)
+        3    0.000    0.000    0.476    0.159 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\figure.py:3341(savefig)
+        3    0.000    0.000    0.476    0.159 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\backend_bases.py:2051(print_figure)
+        6    0.000    0.000    0.329    0.055 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\artist.py:92(draw_wrapper)
+    588/6    0.001    0.000    0.329    0.055 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\artist.py:53(draw_wrapper)
+        6    0.000    0.000    0.329    0.055 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\figure.py:3244(draw)
+     12/6    0.000    0.000    0.327    0.054 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\image.py:116(_draw_list_compositing_images)
+        6    0.000    0.000    0.327    0.054 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\axes\_base.py:3161(draw)
+        2    0.000    0.000    0.305    0.152 D:\Projects\MMA3001 Project\src\plots.py:86(_two_lines)
+        1    0.000    0.000    0.288    0.288 D:\Projects\MMA3001 Project\src\plots.py:69(series_with_splits)
+        6    0.000    0.000    0.210    0.035 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\backend_bases.py:2042(<lambda>)
+        6    0.000    0.000    0.210    0.035 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\backends\backend_agg.py:434(print_png)
+        6    0.000    0.000    0.210    0.035 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\backends\backend_agg.py:424(_print_pil)
+       12    0.000    0.000    0.168    0.014 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\axis.py:1396(draw)
+        1    0.000    0.000    0.162    0.162 D:\Projects\MMA3001 Project\src\plots.py:105(horizon_sensitivity)
+       87    0.003    0.000    0.158    0.002 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\axis.py:1276(_update_ticks)
+       15    0.000    0.000    0.153    0.010 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\axis.py:1337(get_tightbbox)
+        6    0.000    0.000    0.152    0.025 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\backends\backend_agg.py:375(draw)
+        1    0.000    0.000    0.143    0.143 D:\Projects\MMA3001 Project\src\plots.py:99(lag_sensitivity)
+        9    0.000    0.000    0.130    0.014 D:\Projects\MMA3001 Project\.venv\lib\site-packages\matplotlib\axes\_base.py:3090(_update_title_position)
+        1    0.000    0.000    0.119    0.119 D:\Projects\MMA3001 Project\src\evaluate.py:76(prepare)
+        1    0.000    0.000    0.117    0.117 D:\Projects\MMA3001 Project\src\evaluate.py:250(data_summary)
+        4    0.000    0.000    0.116    0.029 D:\Projects\MMA3001 Project\src\evaluate.py:254(<lambda>)
+        4    0.000    0.000    0.116    0.029 D:\Projects\MMA3001 Project\.venv\lib\site-packages\pytz\__init__.py:140(timezone)
+
+
